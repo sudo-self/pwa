@@ -37,24 +37,25 @@
     
 <center>
     <a href="https://ibb.co/grqdF3Z"><img src="https://i.ibb.co/RgrN49T/Screenshot-2024-01-08-at-5-12-32-AM.png" alt="Screenshot-2024-01-08-at-5-12-32-AM" border="0"></a></center><center><p>In order to function like an&nbsp;<b>APP</b>&nbsp;A "manifest.json" file is added that gives the webpage an app icon, a start point, and instructions on how to work offline.</p>
-        <textarea rows="17" cols="41" readonly>
+        <textarea rows="22" cols="45" readonly>
             // manifest.json //
-        {
-            "name": "Progressive web app by JR",
-            "short_name": "PWA",
-            "start_url": "index.html",
-            "scope": "./",
-            "icons": [
-              {
-                "src": "icon.png",
-                "sizes": "512x512",
-                "type": "image/png"
-              }
-            ],
-            "theme_color": "#fff",
-            "background_color": "#000",
-            "display": "standalone"
-          }
+{
+    "name": "Progressive web app by JR",
+    "short_name": "PWA",
+    "start_url": "index.html",
+    "scope": "./",
+    "icons": [
+        { "src": "/favicon.ico", "type": "image/x-icon", "sizes": "16x16 32x32" },
+        { "src": "/icon-192.png", "type": "image/png", "sizes": "192x192" },
+        { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512" },
+        { "src": "/icon-192-maskable.png", "type": "image/png", "sizes": "192x192", "purpose": "maskable" },
+        { "src": "/icon-512-maskable.png", "type": "image/png", "sizes": "512x512", "purpose": "maskable" }
+      ],
+    
+    "theme_color": "#fff",
+    "background_color": "#000",
+    "display": "standalone"
+    }
         </textarea></center><br>
 <center><p><b>github:</b>&nbsp;<a href="https://sudo-self.github.io/pwa/">website</a><br><br>
     <b>pwa:</b>&nbsp;<a href="https://sudo-self.github.io/pwa/manifest.json">/manifest.json</a>
