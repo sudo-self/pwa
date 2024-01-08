@@ -16,3 +16,7 @@ Status bar color: #7249d6<br>
 <a href="https://sudo-self.github.io/pwa/twa-manifest.json)">twa</a>
 <img width="1208" alt="Screenshot 2024-01-08 at 7 42 57 AM" src="https://github.com/sudo-self/pwa/assets/119916323/17fe9447-7e9d-4927-89f8-e6e0f5867022">
 
+<img width="405" alt="Screenshot 2024-01-08 at 9 15 46 AM" src="https://github.com/sudo-self/pwa/assets/119916323/16fe69e8-7f0d-4d80-b8ae-a28643cf803a">
+<img width="405" alt="Screenshot 2024-01-08 at 9 16 00 AM" src="https://github.com/sudo-self/pwa/assets/119916323/30673c51-ddb2-442b-beb8-e8c10e316836">
+<img width="405" alt="Screenshot 2024-01-08 at 9 15 27 AM" src="https://github.com/sudo-self/pwa/assets/119916323/b2d1382e-4266-402d-bb87-7b482334ae5f">
+<img width="405" alt="Screenshot 2024-01-08 at 9 15 03 AM" src="https://github.com/sudo-self/pwa/assets/119916323/ff5a62b2-f50e-4b7d-a1a8-3780b7a7ee05">
