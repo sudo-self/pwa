@@ -11,11 +11,11 @@ Starting version code for the new app version: 1<br>
 Display mode: standalone<br>
 Orientation: default<br>
 Status bar color: #7249d6<br>
-<img width="1157" alt="Screenshot 2024-01-08 at 6 47 49 AM" src="https://github.com/sudo-self/pwa/assets/119916323/dcbebbc6-4373-4010-94b2-7eb89cca7ac1">
-<a href="https://sudo-self.github.io/pwa/twa-manifest.json)">twa</a>
-<img width="1208" alt="Screenshot 2024-01-08 at 7 42 57 AM" src="https://github.com/sudo-self/pwa/assets/119916323/17fe9447-7e9d-4927-89f8-e6e0f5867022">
-<img width="405" alt="Screenshot 2024-01-08 at 9 15 27 AM" src="https://github.com/sudo-self/pwa/assets/119916323/28565aa0-c94c-4cec-a308-c93a61f60264">
+### <img width="1157" alt="Screenshot 2024-01-08 at 6 47 49 AM" src="https://github.com/sudo-self/pwa/assets/119916323/dcbebbc6-4373-4010-94b2-7eb89cca7ac1">
+### <a href="https://sudo-self.github.io/pwa/twa-manifest.json)">twa</a>
+### <img width="1208" alt="Screenshot 2024-01-08 at 7 42 57 AM" src="https://github.com/sudo-self/pwa/assets/119916323/17fe9447-7e9d-4927-89f8-e6e0f5867022">
+### <img width="405" alt="Screenshot 2024-01-08 at 9 15 27 AM" src="https://github.com/sudo-self/pwa/assets/119916323/28565aa0-c94c-4cec-a308-c93a61f60264">
 ## <b>twa:</b>&nbsp;<a href=https://sudo-self.github.io/pwa/twa-manifest.json">website/manifest.json</a><br>
 ## <b>apk:</b>&nbsp;<a href=https://sudo-self.github.io/pwa/app-release-signed.apk">website/manifest.json</a><br>
-<img width="405" alt="Screenshot 2024-01-08 at 9 15 46 AM" src="https://github.com/sudo-self/pwa/assets/119916323/80dbd7fc-9b1b-48bd-ab45-35b5dc8b9d9e">
-<img width="405" alt="Screenshot 2024-01-08 at 9 16 00 AM" src="https://github.com/sudo-self/pwa/assets/119916323/d30ecd34-0403-4a03-b9ce-3fb863f10c88">
+### <img width="405" alt="Screenshot 2024-01-08 at 9 15 46 AM" src="https://github.com/sudo-self/pwa/assets/119916323/80dbd7fc-9b1b-48bd-ab45-35b5dc8b9d9e">
+### <img width="405" alt="Screenshot 2024-01-08 at 9 16 00 AM" src="https://github.com/sudo-self/pwa/assets/119916323/d30ecd34-0403-4a03-b9ce-3fb863f10c88">
