@@ -13,7 +13,7 @@ Display mode: standalone<br>
 Orientation: default<br>
 Status bar color: #7249d6<br>
 <img width="1157" alt="Screenshot 2024-01-08 at 6 47 49 AM" src="https://github.com/sudo-self/pwa/assets/119916323/dcbebbc6-4373-4010-94b2-7eb89cca7ac1">
-<a href="https://sudo-self.github.io/pwa/twa-manifest.json)">twa</a>
+<a href="https://sudo-self.github.io/pwa/twa-manifest.json">twa</a>
 <img width="1208" alt="Screenshot 2024-01-08 at 7 42 57 AM" src="https://github.com/sudo-self/pwa/assets/119916323/17fe9447-7e9d-4927-89f8-e6e0f5867022">
 
 <img width="405" alt="Screenshot 2024-01-08 at 9 15 46 AM" src="https://github.com/sudo-self/pwa/assets/119916323/16fe69e8-7f0d-4d80-b8ae-a28643cf803a">
