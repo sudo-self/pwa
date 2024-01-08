@@ -4,8 +4,8 @@
 ## app icon&nbsp;![play_store_512](https://github.com/sudo-self/pwa/assets/119916323/313a0da4-88d9-4924-a13b-ebc8cbc5e945)<br>
 <a href="https://sudo-self.github.io/pwa/manifest.json">Wrapper</a><br>
 Domain: sudo-self.github.io<br>
-URL path:/<br>
-/pwa/index.htmlApplication name: Progressive web app by JR<br>
+URL path:/pwa/index.html<br>
+Application name: Progressive web app by JR<br>
 Short name: PWA<br>
 Application ID: io.github.sudo_self.twa<br>
 Starting version code for the new app version: 1<br>
