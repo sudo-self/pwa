@@ -1,0 +1,16 @@
+{
+    "name": "Progressive web app by JR",
+    "short_name": "PWA",
+    "start_url": "index.html",
+    "scope": "./",
+    "icons": [
+      {
+        "src": "icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#fff",
+    "background_color": "#000",
+    "display": "standalone"
+  }
