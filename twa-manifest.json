@@ -13,13 +13,13 @@
   "backgroundColor": "#000000",
   "enableNotifications": true,
   "startUrl": "/pwa/index.html",
-  "iconUrl": "https://bucket.jessejesse.com/play_store_512.png",
-  "maskableIconUrl": "https://bucket.jessejesse.com/play_store_512.png",
-  "monochromeIconUrl": "https://bucket.jessejesse.com/play_store_512.png",
+  "iconUrl": "https://sudo-self.github.io/pwa/play_store_512.png",
+  "maskableIconUrl": "https://sudo-self.github.io/pwa/play_store_512.png",
+  "monochromeIconUrl": "https://sudo-self.github.io/pwa/play_store_512.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
-    "path": "/Users/thatonedev/Downloads/pwa-main/android.keystore",
-    "alias": "purple"
+    "path": "/Users/thatonedev/Downloads/pwa-main-3/android.keystore",
+    "alias": "gradle"
   },
   "appVersionName": "1",
   "appVersionCode": 1,
