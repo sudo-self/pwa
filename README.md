@@ -2,7 +2,9 @@
 <img width="1269" alt="Screenshot 2024-01-08 at 6 11 16 AM" src="https://github.com/sudo-self/pwa/assets/119916323/4374c092-b6b0-4857-a882-dce2b85d2fce"><br>
 ## ![play_store_512](https://github.com/sudo-self/pwa/assets/119916323/313a0da4-88d9-4924-a13b-ebc8cbc5e945)<br>
 <a href="https://sudo-self.github.io/pwa/manifest.json">pwa</a>
-Application name: Progressive web app by JR<br>
+Domain: sudo-self.github.io<br>
+URL path:/<br>
+/pwa/index.htmlApplication name: Progressive web app by JR<br>
 Short name: PWA<br>
 Application ID: io.github.sudo_self.twa<br>
 Starting version code for the new app version: 1<br>
