@@ -22,3 +22,4 @@ Status bar color: #7249d6<hr>
 # <b>Android&nbsp;</b>&nbsp;<a href="https://sudo-self.github.io/pwa/app-release-signed.apk">APK</a><br>
 # Web&nbsp;[APP](https://web-pwa-apk.vercel.app/)
 ![Screenshot 2024-01-08 at 2 04 02 PM](https://github.com/sudo-self/pwa/assets/119916323/e8a6b5b3-bd27-45bc-a242-8892e109e182)
+<img width="783" alt="Screenshot 2024-01-08 at 7 08 21 PM" src="https://github.com/sudo-self/pwa/assets/119916323/52f75a67-08bd-4888-88d8-36cd27c12922">
